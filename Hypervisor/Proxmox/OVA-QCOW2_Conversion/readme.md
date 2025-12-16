@@ -1,6 +1,8 @@
 # Importing an OVA VM into Proxmox
 
-This guide explains how to import a virtual machine in OVA format into Proxmox, a useful task for quickly setting up a lab environment, for example when preparing for certifications like RHCSA.
+This guide explains how to import a virtual machine in OVA format into Proxmox.
+
+You got this if you want to do it easily : https://github.com/Y0RI0/ova_to_qcow2/tree/main
 
 ## Prerequisites
 
